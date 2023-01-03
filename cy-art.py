@@ -21,13 +21,13 @@ print (""""\033[2;35m
 =========================================================
 ||SUPPORT                                               ||
 ==========+++++++++++++++++++++++++++++++++++++==========
-||Maintainer[*] : shade234sherif                        ||
+||Maintainer[*] : harkerbyte                            ||
 ||Team[*] : Alone                                       ||
-||Git[*]: shade234sherif                                ||
+||Git[*]: harkerbyte                                    ||
 ||Wa.me[*] : +2349155558315                             ||
 ||Facebook page[*] : https://facebook.com/cyberhacks6   ||
 ||Join GC[*]: https://facebook.com/groups/shade234sherif|| 
-||( ETHICAL HACKING FOR BEGINNERS - SHADE234SHERIF )    ||
+||( ETHICAL HACKING WITH HARKERBYTE                )    ||
 ||Sub Yt[*]: shade234sherif                             ||
 ||                                                      ||
 ==========================================================                                                                                          
