@@ -15,7 +15,7 @@
 >> pkg install python3 
 >> pip install art
 >> pip install git 
->> git clone https://github.com/shade234sherif/font-generator
+>> git clone https://github.com/harkerbyte/font-generator
 >> cd font-generator
 >> python3 cy-art.py
 
@@ -81,7 +81,7 @@
 
 ## Connect with me
 
-* <a href=https://facebook.com/cyberhacks6>FACEBOOK PAGE</a>
+* <a href=https://facebook.com/harkerbyte>FACEBOOK PAGE</a>
 * <a href=https://facebook.com/shade234sherif>FB ACC</a>
 * <a href=https://facebook.com/groups/shade234sherif>FACEBOOK GROUP</a>
 
